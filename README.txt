@@ -2,9 +2,7 @@ Digital Campaign Pacing Program
 
 -------------------------------------------------------------------------------
 
-Linda Fung (lindafun@bu.edu)
-MET CS 521 O1
-Final Project
+Linda Fung (lindamfung@gmail.edu)
 
 -------------------------------------------------------------------------------
 
