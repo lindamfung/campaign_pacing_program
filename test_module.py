@@ -24,7 +24,7 @@ class CampaignPaceTestCase(unittest.TestCase):
         different day will fail test.
         '''
         self.assertEqual(campaign_days.days_passed("03/01/2019",
-                                                   "03/31/2019"), 9)
+                                                   "03/31/2019"), 31)
         # If campaign has already ended, days_passed should return
         # total flight days
         self.assertEqual(campaign_days.days_passed("2/1/2019", 
