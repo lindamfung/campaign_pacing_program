@@ -1,4 +1,4 @@
-# Digital Campaign Pacing Program
+# Digital Campaign Pacing Tool
 
 ## Summary
 This program reads a text file of digital campaign data that a user updates. It processes each line to evaulate the pacing and offer recommendations for each campaign. It determines if a campaign is overpacing, underpacing or on pace and suggests how much to spend each day for the rest of the flight. This program is useful for digital campaign managers who run multiple accounts and do not have time to calculate the pacing for each individual campaign as that would be time consuming. With this program, they can just update campaigndatafile.txt and the program will evaluate every campaign and display the pacing with recommendations.
